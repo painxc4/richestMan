@@ -1,32 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-    <url>
-        <loc>https://painxc4.github.io/richestMan/img/richest-man-in-duluth.jpg</loc>
-        <lastmod>2024-12-01</lastmod>
-    </url>
-    <url>
-        <loc>https://painxc4.github.io/richestMan/img/richest-man-in-duluth-forbes.png</loc>
-        <lastmod>2024-12-01</lastmod>
-    </url>
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
     <url>
         <loc>https://painxc4.github.io/richestMan/</loc>
         <lastmod>2024-12-15T20:45:28+00:00</lastmod>
+        <priority>1.00</priority>
     </url>
     <url>
         <loc>https://painxc4.github.io/richestMan/interview.html</loc>
         <lastmod>2024-12-15T20:45:28+00:00</lastmod>
-        <image:image>
-            <image:loc>https://painxc4.github.io/richestMan/img/richest-man-in-duluth-forbes.png</image:loc>
-            <image:title>Nicholas T Forbes Feature</image:title>
-        </image:image>
+        <priority>0.80</priority>
     </url>
     <url>
         <loc>https://painxc4.github.io/richestMan/index.html</loc>
         <lastmod>2024-12-15T20:45:28+00:00</lastmod>
-        <image:image>
-            <image:loc>https://painxc4.github.io/richestMan/img/richest-man-in-duluth.jpg</image:loc>
-            <image:title>Nicholas T - Richest Man in Duluth</image:title>
-        </image:image>
+        <priority>0.64</priority>
     </url>
 </urlset>
